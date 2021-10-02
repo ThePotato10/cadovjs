@@ -1,0 +1,5 @@
+node_modules
+# Used to test on localhost
+index.html
+# compiled JavaScript
+/out/
